@@ -1,0 +1,16 @@
+F:\Learning\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.deps.json
+F:\Learning\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.runtimeconfig.json
+F:\Learning\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.runtimeconfig.dev.json
+F:\Learning\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.dll
+F:\Learning\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Data.pdb
+F:\Learning\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Domain.dll
+F:\Learning\EFDemo\EFDemo.Data\bin\Debug\netcoreapp3.1\EFDemo.Domain.pdb
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.csproj.AssemblyReference.cache
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.AssemblyInfoInputs.cache
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.AssemblyInfo.cs
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.csproj.CoreCompileInputs.cache
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.csproj.CopyComplete
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.dll
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.pdb
+F:\Learning\EFDemo\EFDemo.Data\obj\Debug\netcoreapp3.1\EFDemo.Data.genruntimeconfig.cache

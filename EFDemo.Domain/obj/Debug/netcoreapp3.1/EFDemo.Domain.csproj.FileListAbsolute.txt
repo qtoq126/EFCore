@@ -1,0 +1,10 @@
+F:\Learning\EFDemo\EFDemo.Domain\bin\Debug\netcoreapp3.1\EFDemo.Domain.deps.json
+F:\Learning\EFDemo\EFDemo.Domain\bin\Debug\netcoreapp3.1\EFDemo.Domain.dll
+F:\Learning\EFDemo\EFDemo.Domain\bin\Debug\netcoreapp3.1\EFDemo.Domain.pdb
+F:\Learning\EFDemo\EFDemo.Domain\obj\Debug\netcoreapp3.1\EFDemo.Domain.csproj.AssemblyReference.cache
+F:\Learning\EFDemo\EFDemo.Domain\obj\Debug\netcoreapp3.1\EFDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\EFDemo\EFDemo.Domain\obj\Debug\netcoreapp3.1\EFDemo.Domain.AssemblyInfoInputs.cache
+F:\Learning\EFDemo\EFDemo.Domain\obj\Debug\netcoreapp3.1\EFDemo.Domain.AssemblyInfo.cs
+F:\Learning\EFDemo\EFDemo.Domain\obj\Debug\netcoreapp3.1\EFDemo.Domain.csproj.CoreCompileInputs.cache
+F:\Learning\EFDemo\EFDemo.Domain\obj\Debug\netcoreapp3.1\EFDemo.Domain.dll
+F:\Learning\EFDemo\EFDemo.Domain\obj\Debug\netcoreapp3.1\EFDemo.Domain.pdb
