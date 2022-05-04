@@ -4,14 +4,16 @@ using EFDemo.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace EFDemo.Data.Migrations
 {
     [DbContext(typeof(EFDemoContext))]
-    partial class EFDemoContextModelSnapshot : ModelSnapshot
+    [Migration("20220504085042_AddOneToOne")]
+    partial class AddOneToOne
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
